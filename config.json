@@ -1,0 +1,15 @@
+{
+    "title": "WC2",
+    "baseURL": "https:\/\/catsanddogs.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758386",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "catsanddogs.com"
+    }
+}
